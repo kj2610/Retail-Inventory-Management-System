@@ -43,6 +43,5 @@ SMTP_PASS =
 
 
 ## Troubleshooting
-
-- if you are unable to send mail to all the admins using SMTP then follow this tutorial to change the password.
+  If you are unable to send mail to all the admins using SMTP then follow this tutorial to change the password.
   Follow this [Tutorial](https://stackoverflow.com/questions/18585682/spring-mail-authentication-error)
