@@ -27,7 +27,16 @@ In order to run this project locally, simply fork and clone the repository or do
 - Add DataBase URL.
 - Provide DataBase Username and passWord.
 - For Simple Mail Transfer Protocol(SMTP) use personal email-id and passWord.
-- 
+
+```
+DB_URL = 
+PORT = 8081
+SMTP_HOST = 
+SMTP_PORT = 587
+SMTP_USER = 
+SMTP_PASS = 
+
+```
 
 
 
