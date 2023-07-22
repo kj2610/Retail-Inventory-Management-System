@@ -42,7 +42,7 @@ SMTP_PASS =
 - Change the location of Bills In your system from /backend/src/main/java/com.cafe.com.cafe/constants/CafeConstants provided path as STORE_LOCATION
 
 
-##Troubleshooting
+## Troubleshooting
 
-if you are unable to send mail to all the admins using SMTP then follow this tutorial to change the password.
-  (https://stackoverflow.com/questions/18585682/spring-mail-authentication-error)
+- if you are unable to send mail to all the admins using SMTP then follow this tutorial to change the password.
+  Follow this [Tutorial](https://stackoverflow.com/questions/18585682/spring-mail-authentication-error)
