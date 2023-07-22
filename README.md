@@ -27,6 +27,7 @@ In order to run this project locally, simply fork and clone the repository or do
 - Add DataBase URL.
 - Provide DataBase Username and passWord.
 - For Simple Mail Transfer Protocol(SMTP) use personal email-id and passWord.
+- Change the SMTP personal Email from everywhere in folder /backend/src/main/java/com.cafe.com.cafe/utils/EmailUtils
 
 ```
 DB_URL = 
@@ -38,5 +39,10 @@ SMTP_PASS =
 
 ```
 
+- Change the location of Bills In your system from /backend/src/main/java/com.cafe.com.cafe/constants/CafeConstants provided path as STORE_LOCATION
 
 
+##Troubleshooting
+
+if you are unable to send mail to all the admins using SMTP then follow this tutorial to change the password.
+  (https://stackoverflow.com/questions/18585682/spring-mail-authentication-error)
