@@ -17,6 +17,17 @@ All the APIs call will be done through POSTMAN and saved to corresponding tables
 Backend: Spring Boot/Java                                                                                                                                   
 Database: SQL
 
+Tools Used: IntelliJ Idea, POSTMAN(APIs calls)
+
+## Configuration and SetUP
+
+In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine. 
+- Open the project in your prefered JAVA code editor.
+- Open application.properties from /backend/src/main/java/resources/application.properties.
+- Add DataBase URL.
+- Provide DataBase Username and passWord.
+- For Simple Mail Transfer Protocol(SMTP) use personal email-id and passWord.
+- 
 
 
 
