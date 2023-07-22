@@ -1,6 +1,7 @@
 # 🍵 The Central Perk Cafe
 
 The Central Perk Cafe is a retail management system (RMS) that handles basic cafe operations efficiently.
+                                          Bill Generation
 ![image](https://github.com/kj2610/The-Central-Perk-Cafe/assets/112064595/53ee1f8c-c87e-4a68-ac89-6199bbd6f229)
 
 
